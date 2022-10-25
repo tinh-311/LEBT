@@ -65,5 +65,17 @@ namespace BT_NhanCong.model
 
             return null;
         }
+
+        public double tongTienCong()
+        {
+            double result = 0;
+
+            foreach(CNhancong nc in getDSNhanCong())
+            {
+                result += nc.tiencong();
+            }
+
+            return result;
+        }
     }
 }
