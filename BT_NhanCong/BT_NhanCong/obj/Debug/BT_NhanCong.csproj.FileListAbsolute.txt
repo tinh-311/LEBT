@@ -1,0 +1,8 @@
+C:\Users\nguye\Downloads\BT\BT_NhanCong\BT_NhanCong\bin\Debug\BT_NhanCong.exe.config
+C:\Users\nguye\Downloads\BT\BT_NhanCong\BT_NhanCong\bin\Debug\BT_NhanCong.exe
+C:\Users\nguye\Downloads\BT\BT_NhanCong\BT_NhanCong\bin\Debug\BT_NhanCong.pdb
+C:\Users\nguye\Downloads\BT\BT_NhanCong\BT_NhanCong\obj\Debug\BT_NhanCong.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\BT\BT_NhanCong\BT_NhanCong\obj\Debug\BT_NhanCong.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\BT\BT_NhanCong\BT_NhanCong\obj\Debug\BT_NhanCong.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\BT\BT_NhanCong\BT_NhanCong\obj\Debug\BT_NhanCong.exe
+C:\Users\nguye\Downloads\BT\BT_NhanCong\BT_NhanCong\obj\Debug\BT_NhanCong.pdb
